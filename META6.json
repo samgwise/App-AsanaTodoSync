@@ -8,7 +8,7 @@
     "IO::Socket::SSL",
     "URI::Encode"
   ],
-  "description" : "blah blah blah",
+  "description" : "keep your projects TODOs syncronised with a Asana list",
   "license" : "Artistic-2.0",
   "name" : "App::AsanaTodoSync",
   "perl" : "6.c",
@@ -16,7 +16,7 @@
     "App::AsanaTodoSync" : "lib/App/AsanaTodoSync.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "https://github.com/samgwise/App-AsanaTodoSync.git",
   "tags" : [ ],
   "test-depends" : [ ],
   "version" : "0.0.1"

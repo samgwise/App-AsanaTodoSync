@@ -6,7 +6,7 @@ unit class App::AsanaTodoSync:ver<0.0.1>;
 
 =head1 NAME
 
-App::AsanaTodoSync - blah blah blah
+App::AsanaTodoSync - keep your projects TODOs syncronised with a Asana list
 
 =head1 SYNOPSIS
 
@@ -14,7 +14,7 @@ App::AsanaTodoSync - blah blah blah
 
 =head1 DESCRIPTION
 
-App::AsanaTodoSync is ...
+App::AsanaTodoSync is still very WIP currently, probably best to check in later.
 
 =head1 AUTHOR
 

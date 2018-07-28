@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.org/samgwise/App-AsanaTodoSync.svg?branch=master)](https://travis-ci.org/samgwise/App-AsanaTodoSync)
+
 NAME
 ====
 
-App::AsanaTodoSync - blah blah blah
+App::AsanaTodoSync - keep your projects TODOs syncronised with a Asana list
 
 SYNOPSIS
 ========
@@ -11,7 +13,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-App::AsanaTodoSync is ...
+App::AsanaTodoSync is still very WIP currently, probably best to check in later.
 
 AUTHOR
 ======
