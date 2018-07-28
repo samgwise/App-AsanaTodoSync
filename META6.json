@@ -1,0 +1,23 @@
+{
+  "authors" : [
+    "Sam Gillespie"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+    "HTTP::UserAgent",
+    "IO::Socket::SSL",
+    "URI::Encode"
+  ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "App::AsanaTodoSync",
+  "perl" : "6.c",
+  "provides" : {
+    "App::AsanaTodoSync" : "lib/App/AsanaTodoSync.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
